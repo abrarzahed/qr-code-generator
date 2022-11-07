@@ -37,7 +37,7 @@ const generateQrCode = (url, size) => {
     text: url,
     width: size,
     height: size,
-    colorDark: "#000000",
+    colorDark: "#000",
     colorLight: "#ffffff",
   });
 };
